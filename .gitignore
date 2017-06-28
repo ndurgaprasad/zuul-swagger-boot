@@ -1,0 +1,14 @@
+.project
+.settings/
+
+#Gateway
+gateway-service/.classpath
+gateway-service/target/
+
+#Product
+product-service/.classpath
+product-service/target/
+
+#User
+user-service/.classpath
+user-service/target/
